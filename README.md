@@ -35,7 +35,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 * * * * *
 ```
 
-## Solid Rectangle
+## [Solid Rectangle](solid_rectangle.go)
 
 ```plaintext
 * * * * *
