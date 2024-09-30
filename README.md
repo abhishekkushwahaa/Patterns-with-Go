@@ -41,9 +41,10 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 * * * * *
 * * * * *
 * * * * *
+* * * * *
 ```
 
-## Number Square
+## [Number Square](number_square.go)
 
 ```plaintext
 1 2 3 4 5
