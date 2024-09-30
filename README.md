@@ -6,7 +6,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 
 - [Patterns Printing](#patterns-printing)
   - [List of Patterns](#list-of-patterns)
-  - [Solid Square](#solid-square)
+  - [Solid Square !Code](#solid-square-code)
   - [Solid Rectangle](#solid-rectangle)
   - [Number Square](#number-square)
   - [Star Triangle](#star-triangle)
@@ -25,7 +25,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
   - [Number Pyramid Palindrome](#number-pyramid-palindrome)
   - [Conclusion](#conclusion)
 
-## Solid Square
+## Solid Square [!Code](solid_square.go)
 
 ```plaintext
 * * * * *
