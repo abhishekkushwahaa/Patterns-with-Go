@@ -4,5 +4,6 @@ func main() {
 	// printSolidSquare()
 	// printSolidRectangle()
 	// printNumberSquare()
-	printStarTriangle()
+	// printStarTriangle()
+	printStarTriangleReverse()
 }

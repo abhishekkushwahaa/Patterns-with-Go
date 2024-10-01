@@ -63,7 +63,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 * * * * *
 ```
 
-## Star Triangle Reverse
+## [Star Triangle Reverse](5.star_triangle_reverse.go)
 
 ```plaintext
 * * * * *
