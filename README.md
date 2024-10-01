@@ -12,6 +12,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
   - [Star Triangle](#star-triangle)
   - [Star Triangle Reverse](#star-triangle-reverse)
   - [Number Triangle](#number-triangle)
+  - [Number Triangle Inverted](#number-triangle-inverted)
   - [Odd Number Triangle](#odd-number-triangle)
   - [Alphabet Square](#alphabet-square)
   - [Star Plus](#star-plus)
@@ -19,13 +20,11 @@ Pattern printing programs help us to understand the logic of programming. Here, 
   - [Floyd's Triangle](#floyds-triangle)
   - [Binary Triangle](#binary-triangle)
   - [Pascal's Triangle](#pascals-triangle)
-  - [Star Triangle Inverted](#star-triangle-inverted)
-  - [Number Triangle Inverted](#number-triangle-inverted)
   - [Star Pyramid](#star-pyramid)
   - [Number Pyramid Palindrome](#number-pyramid-palindrome)
   - [Conclusion](#conclusion)
 
-## [Solid Square](solid_square.go)
+## [Solid Square](1.solid_square.go)
 
 ```plaintext
 * * * * *
@@ -35,7 +34,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 * * * * *
 ```
 
-## [Solid Rectangle](solid_rectangle.go)
+## [Solid Rectangle](2.solid_rectangle.go)
 
 ```plaintext
 * * * * *
@@ -44,7 +43,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 * * * * *
 ```
 
-## [Number Square](number_square.go)
+## [Number Square](3.number_square.go)
 
 ```plaintext
 1 2 3 4 5
@@ -54,7 +53,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 1 2 3 4 5
 ```
 
-## Star Triangle
+## [Star Triangle](4.star_triangle.go)
 
 ```plaintext
 *
@@ -84,6 +83,16 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 1 2 3 4 5
 ```
 
+## Number Triangle Inverted
+
+```plaintext
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+```
+
 ## Odd Number Triangle
 
 ```plaintext
@@ -107,11 +116,13 @@ A B C D E
 ## Star Plus
 
 ```plaintext
-    *
-    *
-  *****
-    *
-    *
+      *
+      *
+      *
+* * * * * * *
+      *
+      *
+      *
 ```
 
 ## Star X
@@ -156,26 +167,6 @@ A B C D E
 1 2 1
 1 3 3 1
 1 4 6 4 1
-```
-
-## Star Triangle Inverted
-
-```plaintext
-* * * * *
-* * * *
-* * *
-* *
-*
-```
-
-## Number Triangle Inverted
-
-```plaintext
-1 2 3 4 5
-1 2 3 4
-1 2 3
-1 2
-1
 ```
 
 ## Star Pyramid
