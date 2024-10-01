@@ -12,6 +12,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
   - [Star Triangle](#star-triangle)
   - [Star Triangle Reverse](#star-triangle-reverse)
   - [Number Triangle](#number-triangle)
+  - [Number Triangle Mirror](#number-triangle-mirror)
   - [Number Triangle Inverted](#number-triangle-inverted)
   - [Odd Number Triangle](#odd-number-triangle)
   - [Alphabet Square](#alphabet-square)
@@ -22,6 +23,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
   - [Pascal's Triangle](#pascals-triangle)
   - [Star Pyramid](#star-pyramid)
   - [Number Pyramid Palindrome](#number-pyramid-palindrome)
+  - [Name with Star](#name-with-star)
   - [Conclusion](#conclusion)
 
 ## [Solid Square](1.solid_square.go)
@@ -73,7 +75,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 *
 ```
 
-## Number Triangle
+## [Number Triangle](6.number_triangle.go)
 
 ```plaintext
 1
@@ -81,6 +83,28 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 1 2 3
 1 2 3 4
 1 2 3 4 5
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+```
+
+## Number Triangle Mirror
+
+```plaintext
+            1
+         1  2
+      1  2  3
+   1  2  3  4
+1  2  3  4  5
+
+             1
+          2  3
+       4  5  6
+    7  8  9 10
+11 12 13 14 15
 ```
 
 ## Number Triangle Inverted
@@ -187,6 +211,16 @@ A B C D E
   12321
  1234321
 123454321
+```
+
+## Name with Star
+
+```plaintext
+*   *  *****  *   *  *****
+**  *  *   *  ** **  *
+* * *  *****  * * *  *****
+*  **  *   *  *   *  *
+*   *  *   *  *   *  *****
 ```
 
 ## Conclusion
