@@ -23,6 +23,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
   - [Pascal's Triangle](#pascals-triangle)
   - [Star Pyramid](#star-pyramid)
   - [Number Pyramid Palindrome](#number-pyramid-palindrome)
+  - [Diamond Pattern](#diamond-pattern)
   - [Name with Star](#name-with-star)
   - [Conclusion](#conclusion)
 
@@ -137,7 +138,7 @@ A B C D E
 A B C D E
 ```
 
-## Star Plus
+## [Star Plus](11.star_plus.go)
 
 ```plaintext
       *
@@ -149,7 +150,7 @@ A B C D E
       *
 ```
 
-## Star X
+## [Star X](12.star_x.go)
 
 ```plaintext
 *       *
@@ -163,7 +164,7 @@ A B C D E
 *       *
 ```
 
-## Floyd's Triangle
+## [Floyd's Triangle](13.floyd_triangle.go)
 
 ```plaintext
 1
@@ -173,7 +174,7 @@ A B C D E
 11 12 13 14 15
 ```
 
-## Binary Triangle
+## [Binary Triangle](14.binanry_triangle.go)
 
 ```plaintext
 1
@@ -183,7 +184,7 @@ A B C D E
 1 0 1 0 1
 ```
 
-## Pascal's Triangle
+## [Pascal's Triangle](15.pascal_triangle.go)
 
 ```plaintext
 1
@@ -193,7 +194,7 @@ A B C D E
 1 4 6 4 1
 ```
 
-## Star Pyramid
+## [Star Pyramid](16.star_pyramid.go)
 
 ```plaintext
     *
@@ -203,7 +204,7 @@ A B C D E
 * * * * *
 ```
 
-## Number Pyramid Palindrome
+## [Number Pyramid Palindrome](17.number_pyramid_palindrome.go)
 
 ```plaintext
     1
@@ -213,7 +214,21 @@ A B C D E
 123454321
 ```
 
-## Name with Star
+## [Diamond Pattern](18.diamond_pattern.go)
+
+```plaintext
+    1
+   222
+  33333
+ 4444444
+555555555
+ 4444444
+  33333
+   222
+    1
+```
+
+## [Name with Star](19.name.go)
 
 ```plaintext
 *   *  *****  *   *  *****
