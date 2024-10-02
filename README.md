@@ -12,7 +12,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
   - [Star Triangle](#star-triangle)
   - [Star Triangle Reverse](#star-triangle-reverse)
   - [Number Triangle](#number-triangle)
-  - [Number Triangle Mirror](#number-triangle-mirror)
+  - [Number Triangle](#number-triangle-1)
   - [Number Triangle Inverted](#number-triangle-inverted)
   - [Odd Number Triangle](#odd-number-triangle)
   - [Alphabet Square](#alphabet-square)
@@ -117,7 +117,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 1
 ```
 
-## Odd Number Triangle
+## [Odd Number Triangle](9.odd_number_triangle.go)
 
 ```plaintext
 1
