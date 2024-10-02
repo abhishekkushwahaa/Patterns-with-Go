@@ -91,7 +91,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 11 12 13 14 15
 ```
 
-## Number Triangle Mirror
+## [Number Triangle](7.number_triangle1.go)
 
 ```plaintext
             1
@@ -107,7 +107,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 11 12 13 14 15
 ```
 
-## Number Triangle Inverted
+## [Number Triangle Inverted](8.number_triangle_inverted.go)
 
 ```plaintext
 1 2 3 4 5
