@@ -12,5 +12,6 @@ func main() {
 	//printOddNumberTriangle()
 	//printAlphabetSquare()
 	//printStarPlus()
-	printStarX()
+	//printStarX()
+	floydTriangle()
 }
