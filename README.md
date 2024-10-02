@@ -174,7 +174,7 @@ A B C D E
 11 12 13 14 15
 ```
 
-## [Binary Triangle](14.binanry_triangle.go)
+## [Binary Triangle](14.binary_triangle.go)
 
 ```plaintext
 1

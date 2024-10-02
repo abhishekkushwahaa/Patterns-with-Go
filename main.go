@@ -13,5 +13,6 @@ func main() {
 	//printAlphabetSquare()
 	//printStarPlus()
 	//printStarX()
-	floydTriangle()
+	//floydTriangle()
+	binaryTriangle()
 }
