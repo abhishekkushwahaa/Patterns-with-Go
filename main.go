@@ -9,5 +9,6 @@ func main() {
 	//printNumberTriangle()
 	//printNumberTriangle1()
 	//printNumberTriangleInverted()
-	printOddNumberTriangle()
+	//printOddNumberTriangle()
+	printAlphabetSquare()
 }

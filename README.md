@@ -127,7 +127,7 @@ Pattern printing programs help us to understand the logic of programming. Here, 
 9 9 9 9 9
 ```
 
-## Alphabet Square
+## [Alphabet Square](10.alphabet_square.go)
 
 ```plaintext
 A B C D E
