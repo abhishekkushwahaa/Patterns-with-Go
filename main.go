@@ -18,5 +18,6 @@ func main() {
 	//printPascalTriangle()
 	//printStarPyramid()
 	//printNumberPalindromePyramid()
-	printDiamondPattern()
+	//printDiamondPattern()
+	printName()
 }
