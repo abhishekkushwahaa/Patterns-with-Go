@@ -16,5 +16,6 @@ func main() {
 	//floydTriangle()
 	//binaryTriangle()
 	//printPascalTriangle()
-	printStarPyramid()
+	//printStarPyramid()
+	printNumberPalindromePyramid()
 }
